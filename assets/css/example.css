@@ -1,0 +1,27 @@
+.test
+{
+	height 	: 150px;
+	width 	: 980px;
+	margin 	: auto;
+}
+
+.main
+{
+	height 	: 150px;
+	width 	: 980px;
+	outline : blue solid 1px;
+}
+
+.secondary
+{
+	height 	: 300px;
+	width 	: 980px;
+	outline : red solid 1px;
+}
+
+.background
+{
+	height 	: 600px;
+	width 	: 980px;
+	background: #FFBFCC;
+}

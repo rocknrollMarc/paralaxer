@@ -1,0 +1,22 @@
+[data-layer='top'],
+[data-layer='middle'],
+[data-layer='bottom']
+{
+	position: absolute;
+}
+
+
+[data-layer='top']
+{
+	z-index: 100;
+}
+
+[data-layer='middle']
+{
+	z-index: 100;
+}
+
+[data-layer='bottom']
+{
+	z-index: 100;
+}

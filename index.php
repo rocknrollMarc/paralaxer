@@ -1,18 +1,65 @@
 <html>
 	<head>
 		<title>Paralaxer</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/paralaxer.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/example.css">
 	</head>
 	<body>
 
 		<div class='test'>
+			<div class='main' data-layer='top'>
+				Top Layer
+			</div>
+			<div class='secondary' data-layer='middle'>
+				Middle Layer
+			</div>
+			<div class='background' data-layer='bottom'>
+				Bottom Layer
+			</div>
 		</div>
 		<div class='test'>
+			<div class='main' data-layer='top'>
+				Top Layer
+			</div>
+			<div class='secondary' data-layer='middle'>
+				Middle Layer
+			</div>
+			<div class='background' data-layer='bottom'>
+				Bottom Layer
+			</div>
 		</div>
 		<div class='test'>
+			<div class='main' data-layer='top'>
+				Top Layer
+			</div>
+			<div class='secondary' data-layer='middle'>
+				Middle Layer
+			</div>
+			<div class='background' data-layer='bottom'>
+				Bottom Layer
+			</div>
 		</div>
 		<div class='test'>
+			<div class='main' data-layer='top'>
+				Top Layer
+			</div>
+			<div class='secondary' data-layer='middle'>
+				Middle Layer
+			</div>
+			<div class='background' data-layer='bottom'>
+				Bottom Layer
+			</div>
 		</div>
 		<div class='test'>
+			<div class='main' data-layer='top'>
+				Top Layer
+			</div>
+			<div class='secondary' data-layer='middle'>
+				Middle Layer
+			</div>
+			<div class='background' data-layer='bottom'>
+				Bottom Layer
+			</div>
 		</div>
 
 		Se console...
